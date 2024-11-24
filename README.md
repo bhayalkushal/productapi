@@ -42,7 +42,7 @@ The Product API is a RESTful web service built using Spring Boot. It provides CR
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/bhayalkushal/productapi.git
 ```
 
 Configure Database
@@ -165,5 +165,5 @@ The API provides consistent error responses. Example:
 
 - Name: Kushal Bhayal
 - Email: kushalbhayal.it@gmail.com
-- GitHub: https://github.com/bhayalkushal/productapi-s.git
+- GitHub: https://github.com/bhayalkushal/productapi.git
 
